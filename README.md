@@ -1,2 +1,24 @@
-# FiveM_Server
-Join Our Discord (COMING SOON) You will get access to alot of cool mods that we have just down it and we will update it. Have a Nice Day
+## Welcome to Out Laws Productions
+
+You can use the [As you own Servers](https://github.com/Out-Laws-Productions/FiveM_Server) to maintain and preview the content for your Own Server files 
+
+
+### Addons 
+
+```
+
+- Bulleted
+- List
+
+```
+### Up Coming
+
+```
+Mods
+TX Admin on it 
+
+```
+
+### Support or Contact
+
+Having trouble with The Server Files? Check out our [documentation](Coming Soon) or [contact support By Discord](https://discord.gg/3zgEHQ) and we’ll help you sort it out.
