@@ -21,4 +21,4 @@ TX Admin on it
 
 ### Support or Contact
 
-Having trouble with The Server Files? Check out our [documentation](Coming Soon) or [contact support By Discord](https://discord.gg/3zgEHQ) and we’ll help you sort it out.
+Having trouble with The Server Files? Check out our [documentation](https://outlawspc.com) or [contact support By Discord](https://discord.gg/3zgEHQ) and we’ll help you sort it out.
