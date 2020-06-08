@@ -3,7 +3,7 @@
 You can use the [As you own Servers](https://github.com/Out-Laws-Productions/FiveM_Server) to maintain and preview the content for your Own Server files 
 
 
-### Addons 
+### Added 
 
 ```
 
