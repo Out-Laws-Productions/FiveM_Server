@@ -13,10 +13,13 @@ You can use the [As you own Servers](https://github.com/Out-Laws-Productions/Fiv
 ### Up Coming
 
 ```
-VMenu 
-Cop Cars By redneck 
-Civ Cars 
-Chat Like doj Ones 
+- VMenu 
+
+- Cop Cars By redneck 
+
+-Civ Cars 
+
+- Chat Like doj Ones 
 
 ```
 
