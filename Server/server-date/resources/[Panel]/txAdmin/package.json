@@ -47,7 +47,7 @@
     "koa-static": "^5.0.0",
     "lodash": "^4.17.15",
     "lowdb": "^1.0.0",
-    "nanoid": "^3.1.9",
+    "nanoid": "^3.1.31",
     "nanoid-dictionary": "^3.0.0",
     "node-polyglot": "^2.4.0",
     "openid-client": "^3.15.1",
